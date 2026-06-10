@@ -9,6 +9,6 @@ public class PlayerScript : MonoBehaviour
 
     private void OnEnable()
     {
-        InputActions.FindActionMap("Player").Enable();
+        //InputActions.FindActionMap("Player").Enable();
     }
 }
