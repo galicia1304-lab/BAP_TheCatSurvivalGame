@@ -52,7 +52,7 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Toggle Sneak",
+                    "name": "Sneak",
                     "type": "Button",
                     "id": "5dbb9e4e-1471-4f1a-b9d1-d9c3981adb02",
                     "expectedControlType": "",
@@ -208,8 +208,19 @@
                 },
                 {
                     "name": "",
+                    "id": "75a57c8c-9951-4bc3-aa66-f80e5549ab96",
+                    "path": "<Keyboard>/tab",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Meowing",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "088e8818-a6c1-435b-b145-544d1a6e7531",
-                    "path": "",
+                    "path": "<Mouse>/middleButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -220,7 +231,7 @@
                 {
                     "name": "",
                     "id": "adb21b9b-2a33-4840-a4f0-cd85ec038186",
-                    "path": "",
+                    "path": "<Keyboard>/e",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -231,18 +242,18 @@
                 {
                     "name": "",
                     "id": "09e07ae4-63fb-406e-a2d1-11a498d039c4",
-                    "path": "",
+                    "path": "<Keyboard>/capsLock",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Toggle Sneak",
+                    "action": "Sneak",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
                 {
                     "name": "",
                     "id": "bb2ee10b-510f-4dd3-86fb-64f9555c8424",
-                    "path": "",
+                    "path": "<Keyboard>/shift",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -253,7 +264,7 @@
                 {
                     "name": "",
                     "id": "410f2854-a1c6-47bd-9f19-ee79f26c5868",
-                    "path": "",
+                    "path": "<Keyboard>/c",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -264,7 +275,7 @@
                 {
                     "name": "",
                     "id": "03963cc9-4600-4aa0-a8ed-16c685bb1217",
-                    "path": "",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -275,7 +286,7 @@
                 {
                     "name": "",
                     "id": "a7c7dd59-8cba-474f-b87f-f5d611941204",
-                    "path": "",
+                    "path": "<Mouse>/rightButton",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -286,7 +297,7 @@
                 {
                     "name": "",
                     "id": "1bc29b68-3594-43ca-bc8b-07cf04da3d2b",
-                    "path": "",
+                    "path": "<Keyboard>/r",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
