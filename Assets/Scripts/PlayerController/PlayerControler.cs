@@ -13,6 +13,8 @@ public class PlayerControler : MonoBehaviour
     private Vector3 moveinput;
     private Vector3 velocity;
 
+
+
     void Start()
     {
         CatControler = GetComponent<CharacterController>();
@@ -49,5 +51,10 @@ public class PlayerControler : MonoBehaviour
         //this is related to [public void OnJump] 
         velocity.y += Gravity * Time.deltaTime;
         CatControler.Move(velocity * Time.deltaTime);
+
+       
     }
 }
+
+
+//velocity is always going down
