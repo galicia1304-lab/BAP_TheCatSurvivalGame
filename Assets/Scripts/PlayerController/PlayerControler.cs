@@ -8,6 +8,9 @@ public class PlayerControler : MonoBehaviour
     [SerializeField] private float speed = 5f;
     [SerializeField] private float JumpHeight = 2f;
     [SerializeField] private float Gravity = -9.8f;
+    [SerializeField] private Transform cameraTransform;
+    [SerializeField] private bool shouldFaceMoveDirection = false;
+
 
     private CharacterController CatControler;
     private Vector3 moveinput;
@@ -44,9 +47,26 @@ public class PlayerControler : MonoBehaviour
 
     void Update()
     {
-        //this is for movement in [Public Void OnMove]
-        Vector3 move = new Vector3 (moveinput.x, 0 , moveinput.y); 
-        CatControler.Move(move * speed * Time.deltaTime);
+        //question code posistion
+        Vector3 forward = cameraTransform.forward;
+        Vector3 right = cameraTransform.right;
+
+        forward.y = 0;
+        right.y = 0;
+
+        forward.Normalize();
+        right.Normalize();
+
+        Vector3 moveDirecton = forward * moveinput.y + right * moveinput.x;
+        CatControler.Move(moveDirecton * speed * Time.deltaTime);
+
+        //player rotation
+        if (shouldFaceMoveDirection && moveDirecton.sqrMagnitude > 0.001f) 
+        {
+            Quaternion toRotation = Quaternion.LookRotation(moveDirecton, Vector3.up);
+            transform.rotation = Quaternion.Slerp(transform.rotation, toRotation, 10f * Time.deltaTime);
+        }
+
 
         //this is related to [public void OnJump] 
         velocity.y += Gravity * Time.deltaTime;
@@ -57,4 +77,4 @@ public class PlayerControler : MonoBehaviour
 }
 
 
-//velocity is always going down
+//velocity is always going down fix later.
