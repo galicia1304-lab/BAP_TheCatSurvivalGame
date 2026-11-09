@@ -3,7 +3,227 @@ guid: 062b1ee971ea7f74eac05fb8757f0460
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart1_HotDogCartWeelInside4_HotDogCartMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_BellBopttomHotDogCartMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_BellMidlleHotDogCartMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_BellTopHotDogCartMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_ConeHolderHotDogCartMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_FootHotDogCartMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_FootStompHotDogCartMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartHotDogHolder1Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartHotDogHolder2Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartHotDogHolder3Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartHotDogHolder4Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartHotDogHolder5Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartLidMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartLidOpenerMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartMainCartMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartPaperBoxBMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartPaperBoxTMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartPaperMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartRoofHolder1Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartRoofHolder2Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartRoofHolder3Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartRoofHolderMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartRoofMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartSauceB1Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartSauceBMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartSauceM1Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartSauceMMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartSauceT1Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartSauceTMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartShelfMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartSignMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartTopperwereMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartToppingBoardMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWall1Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWall2Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWeelFrame1Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWeelFrameMat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWeelInside1Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWeelInside2Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWeelInside3Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWeelInside5Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWeelInside6Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWeelInside7Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HotDogCart_HotDogCart1_HotDogCartWeelInside8Mat
+    second: {fileID: 2100000, guid: 624bd325ce5c875458a04287f2cae0b7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
