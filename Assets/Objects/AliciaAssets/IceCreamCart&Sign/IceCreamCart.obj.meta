@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 575f6d7f3f16e024b8afc9a0f3a1ccf8
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart1_IceCreamCartRoofHolder3_IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_BellBopttomIceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_BellMidlleIceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_BellTopIceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone10IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone11IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone12IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone13IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone14IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone15IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone16IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone17IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone18IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone19IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone1IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone20IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone21IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone22IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone23IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone24IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone25IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone26IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone2IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone3IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone4IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone5IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone6IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone7IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone8IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cone9IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_ConeHolderIceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_ConeTop1IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_ConeTop2IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_ConeTop3IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup10IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup11IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup12IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup1IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup2IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup3IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup4IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup5IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup6IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup7IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup8IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_Cup9IceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_FootIceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_FootStompIceCreamCartMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartLidMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartLidOpenerMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartPaperBoxBMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartPaperBoxTMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartPaperMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartRoofHolder1Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartRoofHolder2Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartRoofHolderMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartRoofMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartShelfMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartSignMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartSpoonBoxBMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartSpoonBoxTMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartSpoonMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartTopperwereMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWall1Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWall2Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelFrame1Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelFrameMat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelInside1Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelInside2Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelInside3Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelInside4Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelInside5Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelInside6Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelInside7Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartWeelInside8Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IceCreamCart_IceCreamCart1_IceCreamCartpCube1Mat
+    second: {fileID: 2100000, guid: 76d5d81b39feaf84aa8baed3c30ff04b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
